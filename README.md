@@ -1,4 +1,4 @@
-# Olá! Eu sou o razzart-games 👋
+# Olá! Eu sou o Razzart Games (Raphael) 👋
 
 ### 🎮 Desenvolvedor de Jogos & Modelador 3D (Entusiasta da Godot Engine)
 Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados para a Godot.
@@ -6,14 +6,14 @@ Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados
 ---
 
 ## 🌐 Minhas Redes & Portfólio
-<!-- Botões das Redes Sociais e Portfólios -->
-[![Itch.io](https://shields.io)](https://razzart.itch.io/)
-[![Sketchfab](https://shields.io)](https://sketchfab.com)
-[![YouTube](https://shields.io)](https://www.youtube.com/@RazzartGames)
-[![Instagram](https://shields.io)](https://www.instagram.com/razzartgames/)
-[![TikTok](https://shields.io)](https://www.tiktok.com/@razzartgames)
 
----
+<a href="https://itch.io" target="_blank"><img src="https://shields.io" alt="Itch.io"></a>
+<a href="https://sketchfab.com" target="_blank"><img src="https://shields.io" alt="Sketchfab"></a>
+<a href="https://youtube.com" target="_blank"><img src="https://shields.io" alt="YouTube"></a>
+<a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
+<a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
+
+
 
 ## 🚀 Principais Projetos no GitHub
 
