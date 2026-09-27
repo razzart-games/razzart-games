@@ -18,8 +18,17 @@ Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados
 
 * **Ceifeiro de Almas:** Jogo Protótipo de Wave Survival.
 * **Projeto Kart:** Jogo Protótipo de Kart feito em colaboração.
-
----
+*  **Simple Space War** Jogo de combate espacial em 3D.
+*  Simple Space War se encontra em fase de Teste Fechado pela Play Store e já disponível para download através das seguintes etapas:
+*  IMPORTANTE — siga nesta ordem:
+Entre primeiro no Grupo do Google (isso é obrigatório para liberar o acesso):
+[https://groups.google.com/g/grupo-de-teste-do--simple-space-war/]
+Depois baixe o jogo pela Play Store:
+[https://play.google.com/store/apps/details?id=com.razzart.simplespacewar]
+Ou faça o opt-in pelo link da web
+[https://play.google.com/apps/testing/com.razzart.simplespacewar]
+Atenção: para o acesso funcionar, você precisa estar logado na Play Store com o mesmo e-mail que entrou no grupo. Sem isso, o link não libera o download! 
+   ---
 
 ### 📫 Contato & Links Diretos
 * 🎮 **Jogue meus jogos:** [https://razzart.itch.io/](https://razzart.itch.io/)
