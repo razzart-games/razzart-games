@@ -7,9 +7,9 @@ Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados
 
 ## 🌐 Minhas Redes & Portfólio
 
-<a href="https://razzart.itch.io/" target="_blank"><img src="https://shields.io" alt="Itch.io"></a>
-<a href="https://sketchfab.com" target="_blank"><img src="https://shields.io" alt="Sketchfab"></a>
-<a href="https://www.youtube.com/@RazzartGames" target="_blank"><img src="https://shields.io" alt="YouTube"></a>
+<a href="https://razzart.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://sketchfab.com" target="_blank"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab"></a>
+<a href="https://www.youtube.com/@RazzartGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 
 
