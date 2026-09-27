@@ -7,11 +7,10 @@ Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados
 
 ## 🌐 Minhas Redes & Portfólio
 
-<a href="https://itch.io" target="_blank"><img src="https://shields.io" alt="Itch.io"></a>
+<a href="https://razzart.itch.io/" target="_blank"><img src="https://shields.io" alt="Itch.io"></a>
 <a href="https://sketchfab.com" target="_blank"><img src="https://shields.io" alt="Sketchfab"></a>
-<a href="https://youtube.com" target="_blank"><img src="https://shields.io" alt="YouTube"></a>
-<a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
-<a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
+<a href="https://www.youtube.com/@RazzartGames" target="_blank"><img src="https://shields.io" alt="YouTube"></a>
+
 
 
 
@@ -19,7 +18,6 @@ Estou aprendendo de forma autodidata a criar jogos e a modelar assets otimizados
 
 * **Ceifeiro de Almas:** Jogo Protótipo de Wave Survival.
 * **Projeto Kart:** Jogo Protótipo de Kart feito em colaboração.
-* **Simple Space War:** Jogo de guerra espacial em fase teste fechado na Playstore.
 
 ---
 
