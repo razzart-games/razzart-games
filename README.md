@@ -33,5 +33,5 @@ Atenção: para o acesso funcionar, você precisa estar logado na Play Store co
 
 ### 📫 Contato & Links Diretos
 * 🎮 **Jogue meus jogos:** [https://razzart.itch.io/](https://razzart.itch.io/)
-* 🎨 **Modelos 3D:** [https://sketchfab.com](https://sketchfab.com)
+* 🎨 **Modelos 3D:** [https://sketchfab.com](https://sketchfab.com/Razzart_Games)
 * 🎥 **Vídeos e Devlogs:** [https://www.youtube.com/@RazzartGames](https://www.youtube.com/@RazzartGames)
